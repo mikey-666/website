@@ -1,0 +1,23 @@
+﻿.button1 {
+    background-color: dodgerblue;
+    color: black;
+    border-radius: 10px;
+    transition-duration: 0.2s;
+    min-height:30px;
+    height: auto;
+    width: 100px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.button1:hover {
+    background-color:deepskyblue;
+}
+
+/*扩展*/
+.button_extra1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
